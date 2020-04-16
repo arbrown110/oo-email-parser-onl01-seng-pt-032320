@@ -9,3 +9,4 @@ class EmailAddressParser
     emails.split(\|).uniq 
   end
 end  
+
